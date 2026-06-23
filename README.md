@@ -15,6 +15,7 @@ All the different types of hexagons are in the "Hexagon" folder to print. The fo
 * Put the blue whale on the left side of the stand (looking straight at it)
 * Put the red ribbon on the right side of the stand (looking straight at it)
 * Use super glue to glue the magnets onto the hexagons. Make sure they are alternating + and -
+<img width="570" height="431" alt="image" src="https://github.com/user-attachments/assets/a17ab21d-43f5-439e-b88d-92fbd562d06a" />
 
 I hope you enjoy it!
 
