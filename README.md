@@ -11,6 +11,11 @@ All the different types of hexagons are in the "Hexagon" folder to print. The fo
 * A 3D printer
 * Wood color, red color, and blue color filament (Or whatever color you like)
 
+## How to Assemble
+* Put the blue whale on the left side of the stand (looking straight at it)
+* Put the red ribbon on the right side of the stand (looking straight at it)
+* Use super glue to glue the magnets onto the hexagons. Make sure they are alternating + and -
+
 I hope you enjoy it!
 
 ## Issues
